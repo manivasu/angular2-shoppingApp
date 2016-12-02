@@ -8,7 +8,7 @@ Follow the following steps and you're good to go! Important: Typescript and npm 
 
 1: Clone repo
 ```
-git clone https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
+git clone https://github.com/manivasu/angular2-shoppingApp.git
 ```
 2: Install packages
 ```
@@ -18,3 +18,4 @@ npm install
 ```
 npm start
 ```
+gulp
